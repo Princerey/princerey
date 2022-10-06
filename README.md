@@ -4,9 +4,6 @@
 <hr>
 <a href="https://github.com/princerey/github-readme-activity-graph"><img alt="Sachin's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=princerey&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>
-<!-- <p align="centre">
-[![Linkedin: Rohit](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rohit-kumar-771627242)](https://www.linkedin.com/in/rohitkumar/)</p> -->
-
 
 - 🌱 I’m currently learning **Node JS & DSA **
 
@@ -14,7 +11,9 @@
 
 - 📫 Ping me @ **rohkumar0126@gmail.com**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" > <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rohit-kumar-771627242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkumar" height="30" width="40" /></a>
