@@ -32,7 +32,9 @@
 </p>
 
 <hr>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=princerey&show_icons=true&theme=gotham" alt="princerey" />
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=princerey&show_icons=true&theme=gotham" alt="princerey" />
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princerey&show_icons=true&locale=en&theme=gotham" alt="princerey" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princerey&theme=gotham" alt="princerey" /></p>
 
 
