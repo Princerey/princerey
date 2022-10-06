@@ -4,8 +4,8 @@
 <hr>
 <a href="https://github.com/princerey/github-readme-activity-graph"><img alt="Sachin's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=princerey&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>
-<p align="center"> [![Linkedin: Rohit](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rohit-kumar-771627242)](https://www.linkedin.com/in/rohitkumar/)
-[![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=black&link=https://princerey.github.io/rohitwebsite/)](https://princerey.github.io/rohitwebsite/)</p>
+[![Linkedin: Rohit](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rohit-kumar-771627242)](https://www.linkedin.com/in/rohitkumar/)
+[![Portfolio](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=black&link=https://princerey.github.io/rohitwebsite/)](https://princerey.github.io/rohitwebsite/)
 
 - 🌱 I’m currently learning **Node JS & DSA **
 
