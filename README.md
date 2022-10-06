@@ -9,7 +9,7 @@
 <a href="https://github.com/princerey/github-readme-activity-graph"><img alt="Rohit's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=princerey&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>
 
-- 🌱 I’m currently learning **Node JS & DSA **
+- 🌱 I’m currently learning ** Node JS & DSA **
 
 - 💬 Ask me about **Web Development**
 
