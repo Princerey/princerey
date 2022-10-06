@@ -6,7 +6,7 @@
 <hr>
 <!-- <p align="centre">
 [![Linkedin: Rohit](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rohit-kumar-771627242)](https://www.linkedin.com/in/rohitkumar/)</p> -->
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+
 
 - 🌱 I’m currently learning **Node JS & DSA **
 
@@ -35,4 +35,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princerey&show_icons=true&locale=en" alt="princerey" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princerey&" alt="princerey" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
 
