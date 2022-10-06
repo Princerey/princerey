@@ -4,4 +4,4 @@
 <hr>
 <a href="https://github.com/princerey/github-readme-activity-graph"><img alt="Sachin's Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=princerey&theme=react&bg_color=000000&color=AE81CE&line=9644F4&point=FFFFFF&hide_border=true" /></a>  
 <hr>
-<p align="center"> <a href="https://instagram.com/prince__rey" target="blank"><img src="https://img.shields.io/instagram/follow/prince__rey?logo=instagram&style=for-the-badge" alt="prince__rey" /></a> </p>
+<p align="center"> <a href="https://twitter.com/_prince_rey_" target="blank"><img src="https://img.shields.io/twitter/follow/_prince_rey_?logo=twitter&style=for-the-badge" alt="_prince_rey_" /></a> </p>
