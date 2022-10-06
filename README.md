@@ -34,5 +34,4 @@
 <hr>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=princerey&show_icons=true&theme=gotham" alt="princerey" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-streak-stats.vercel.app/api?username=princerey&show_icons=true&theme=gotham" alt="princerey" /></p>
 
