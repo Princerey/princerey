@@ -22,3 +22,10 @@
 <a href="https://www.hackerrank.com/rohkumar0126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rohkumar0126" height="30" width="40" /></a>
 <a href="https://twitter.com/_prince_rey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prince_rey_" height="30" width="40" /></a>
 </p>
+
+
+<hr>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princerey&show_icons=true&locale=en" alt="princerey" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princerey&" alt="princerey" /></p>
+
