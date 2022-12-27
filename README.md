@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rohit....&center=true&size=26">
   </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" height="80"></h1>
-<h3 align="center">an aspiring Full Stack Web Developer, Open-Source Enthusiast and Competitive Programmer  👀</h3>
+<h3 align="center">a Full Stack Web Developer, UI/UX Designer, Open-Source Enthusiast and Competitive Programmer  👀</h3>
 
 <hr>
 <a href="https://github.com/princerey/github-readme-activity-graph"><img alt="Rohit's Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=princerey&theme=modern-lilac" /></a>  
