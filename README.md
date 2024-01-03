@@ -6,7 +6,8 @@
 <h3 align="center">a Full Stack Web Developer, UI/UX Designer, Open-Source Enthusiast and Competitive Programmer  👀</h3>
 
 <hr>
-<a href="https://github.com/princerey/github-readme-activity-graph"><img alt="Rohit's Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=princerey&theme=modern-lilac" /></a>  
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princerey&theme=gotham" alt="princerey" /></p>
+ 
 <hr>
 
 - 🌱 I’m currently learning **Node JS & DSA**
