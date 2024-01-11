@@ -6,7 +6,7 @@
 <h3 align="center">a Full Stack Web Developer, UI/UX Designer, Open-Source Enthusiast and Competitive Programmer  👀</h3>
 
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princerey&theme=gotham" alt="princerey" /></p>
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=princerey&bg_color=0c1014&color=549b9c&line=21816b&point=3f8388&area=true&hide_border=true" alt="princerey" /></p>
  
 <hr>
 
@@ -29,7 +29,7 @@
 </p>
 <br>
 <hr>
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
@@ -44,7 +44,7 @@
 &nbsp;
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-</p>
+</p> -->
 <br>
   <div align=center>
     <a href="https://github.com/princerey/github-readme-stats">
