@@ -10,9 +10,9 @@
  
 <hr>
 
-- 🌱 I’m currently learning **Node JS & DSA**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Web Development & UI/UX**
+- 💬 Ask me about **Web Development & DevOps**
 
 - 📫 Ping me @ **rohkumar0126@gmail.com**
 
